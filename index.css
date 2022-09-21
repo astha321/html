@@ -1,30 +1,100 @@
-h1{
-    color: red;
-    font-size: large;
+.menu .logo .content{
     text-align: center;
 }
-.brand{
+.menu .logo{
     float: left;
 }
-.menu{
-    padding: 26px;
-    text-align: center;
+.container .col-lg-12 {
+    vertical-align: middle;
+    float: right;
 }
-button
-.brand{
-    background-color: purple;
+.image {
+    float: right;
+}
+.navbar a {
+    text-decoration: none;
+}
+.container .row .text{
+    font-size:  30px;
+    background-color: #FDE6E6;
+    width: 520px;
+    height: 333px;
+    
+    
+    
+}
+.container .row .text1{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+.container .button{
     text-align: center;
-    padding-right: 80px;
-    padding-bottom: 40px;
+    margin-top: 15px;
+    padding-right: 140px;
+}
+.features .topic{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px ;
+}
+.features .container .row .kids{
+    margin-left: 110px ;
+}
+.features .container .row .girls{
+    margin-left: 110px ;
+}
+.features .container .row .baby{
+    margin-left: 110px ;
+}
+.features .container .row .button1{
+    margin-left: 170px;
+    margin-top: 15px;
+}
+    
+.features .container .row .button2{
+    margin-left: 110px ;
+    margin-top: 15px;
+}
+.features .container .row .button3{
+    margin-left: 150px ;
+    margin-top: 15px;
+}
+.img{
     margin-top: 30px;
-    margin-left: 60px;
-}   
-
-#logo{
-
+    margin-left: 30px;
 }
-h1{}
-.brand .logo h1{
-  font-size:20px;
+.footer{
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 30px;
+    text-align: center;
 }
-   
+.contact{
+    text-align: center;
+    margin-top: 15px;
+}
+.contact .topic{
+    font-size: 30px;
+    padding-top: 15px;
+}
+.nav{
+    background-color: #D5C3FF;
+    height: 500px;
+}
+.features{
+    background-color: #D5C3FF;
+    height: 300px;
+}
+.contact{
+    background-color: #D5C3FF;
+    height: 250px;
+}
+.footer{
+    background-color: #D5C3FF;
+    height: 300px;
+}
+.nav .container .row .sign{
+    float: right;
+    padding-top: 15px;
+}

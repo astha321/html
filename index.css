@@ -88,7 +88,7 @@
 }
 .contact{
     background-color: #D5C3FF;
-    height: 250px;
+    height: 275px;
 }
 .footer{
     background-color: #D5C3FF;
@@ -97,4 +97,7 @@
 .nav .container .row .sign{
     float: right;
     padding-top: 15px;
+}
+.but{
+    margin-top: 15px;
 }
